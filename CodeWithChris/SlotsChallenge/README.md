@@ -8,7 +8,7 @@ There are three fruit image and 1,000 credits. When user taps on Spin button, al
 
 ## App Preview
    
-<img src="Screenshot/SlotsChallengeUI.png" width="300">
+<img src="Screenshot/SlotsChallengeUI.jpg" width="300">
 
 ## License
 
