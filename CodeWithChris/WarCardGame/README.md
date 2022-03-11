@@ -5,7 +5,7 @@ A simple application to learn about SwiftUI and it's part of [14 Day Beginner Ch
 
 ## App Preview
    
-<img src="Screenshot/WarCardGameUI_iphone13red_portrait.png" width="200">
+<img src="Screenshot/WarCardGameUI_iphone13red_portrait.png" width="300">
 
 ## License
 
