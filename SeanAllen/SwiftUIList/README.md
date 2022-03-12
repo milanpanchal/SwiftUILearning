@@ -4,12 +4,11 @@ A simple SwiftUI list application to learn about SwiftUI list. It's part of [Swi
 
 ## App Preview
 
-    <!--
 <p float="left">   
-    <img src="Screenshot/WeatherAppUI_day_iphone13starlight_portrait.png" width="300" />    
-    <img src="Screenshot/WeatherAppUI_night_iphone13starlight_portrait.png" width="300" />
+    <img src="Screenshot/SwiftUIListUI_1.png" width="300" />    
+    <img src="Screenshot/SwiftUIListUI_2.png" width="300" />
 </p>
-    -->
+
 ## License
 
 MIT
